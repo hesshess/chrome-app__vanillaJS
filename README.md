@@ -1,2 +1,3 @@
-# chrome-app__vanillaJS
- Building a Chrome application with Vanilla JS
+# JS Basics
+
+Repository for the JS-Basics Nomad Academy Course. Cloning a Productivity App with VanillaJS
